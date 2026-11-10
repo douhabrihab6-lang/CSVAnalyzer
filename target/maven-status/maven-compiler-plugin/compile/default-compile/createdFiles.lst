@@ -1,0 +1,16 @@
+com\csvanalyzer\presentation\MainController$2.class
+com\csvanalyzer\service\ExportService.class
+com\csvanalyzer\service\DatabaseService.class
+com\csvanalyzer\model\StatistiquesResultat.class
+com\csvanalyzer\presentation\MainController.class
+com\csvanalyzer\presentation\MainController$3.class
+com\csvanalyzer\presentation\MainApp.class
+com\csvanalyzer\presentation\MainController$5.class
+com\csvanalyzer\service\StatsService.class
+com\csvanalyzer\model\Vente.class
+com\csvanalyzer\service\CsvReader.class
+com\csvanalyzer\presentation\MainController$4.class
+com\csvanalyzer\service\DatabaseConfig.class
+com\csvanalyzer\presentation\MainController$1.class
+com\csvanalyzer\model\LectureResultat.class
+com\csvanalyzer\presentation\ChartBuilder.class
